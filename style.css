@@ -1,5 +1,5 @@
 body {
-    background: #e5e5f1;
+    background: #cdcde8;
 }
 
 main {
@@ -23,7 +23,7 @@ main {
     background-image: url("photo.jpg");
     background-size: 400px 450px;
     background-repeat: no-repeat;
-    border: 20px solid gray;
+    border: 20px solid #a3e59d;
 }
 
 .skill {
