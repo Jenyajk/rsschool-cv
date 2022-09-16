@@ -7,7 +7,7 @@
    
  I like programming and everything in this area. Willing to learn and improve my skills.
  
- Skills: HTML.
+ Skills: HTML, CSS, JavaScript, Angular.
  
  `console.log('Hello World!!!!')`
    
